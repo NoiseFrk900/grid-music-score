@@ -4,7 +4,7 @@ A plaintext format to store music score data.
 
 ![Example Screenshot of Bach Prelude](https://raw.githubusercontent.com/NoiseFrk900/grid-music-score/main/img/gdms_prelude_C_major_screenshot.png)
 
-In oder to represent every note in a plaintext monospaced format each pitch was given a unique character as represented in the below grid starting with the A(-1) which is 13.75 HA.z
+In oder to represent every note in a plaintext monospaced format each pitch was given a unique character as represented in the below grid starting with the A(-1) which is 13.75 Hz
 
 ```
              A  A# B  C  C# D  D# E  F  F# G  G#
