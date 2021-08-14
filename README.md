@@ -28,6 +28,88 @@ A(6)-A#(7) | â  ĥ  ḇ  ĉ  î  ḏ  ô  ê  ф  û  ĝ  ŷ
 A(7)-A#(8) | ą  ḩ     ç  į  ḑ  ǫ  ę     ų
 ```
 
-Sharps and flats were replaced with H, I, O, U, and Ydue to the available forms of these letters to represent different pitches across different octaves with the same base letter. There is no distinction between whether notess are sharp or flat from a music theory perspective; the format is meant to accurately record the pitch intended.
+Sharps and flats were replaced with H, I, O, U, and Y due to the available forms of these letters to represent different pitches across different octaves with the same base letter. There is no distinction between whether notess are sharp or flat from a music theory perspective; the format is meant to accurately record the pitch intended.
 
+Capitals aare used to represent lower pictches and lower case for higher pitches. For B and F letters from other alphabets were pulled to complete the grid.
+
+Examples of blank measures in 4/4 time.
+2 measures with 32nd note subdivisions
+|,,,|,,,|,,,|,,,|,,,|,,,|,,,|,,,],,,|,,,|,,,|,,,|,,,|,,,|,,,|,,,]
+|,,,|,,,|,,,|,,,|,,,|,,,|,,,|,,,],,,|,,,|,,,|,,,|,,,|,,,|,,,|,,,]
+|,,,|,,,|,,,|,,,|,,,|,,,|,,,|,,,],,,|,,,|,,,|,,,|,,,|,,,|,,,|,,,]
+|,,,|,,,|,,,|,,,|,,,|,,,|,,,|,,,],,,|,,,|,,,|,,,|,,,|,,,|,,,|,,,]
+|,,,|,,,|,,,|,,,|,,,|,,,|,,,|,,,],,,|,,,|,,,|,,,|,,,|,,,|,,,|,,,]
+
+4 measures with 16th note subdivisions
+|...|...|...|...]...|...|...|...]...|...|...|...]...|...|...|...]
+|...|...|...|...]...|...|...|...]...|...|...|...]...|...|...|...]
+|...|...|...|...]...|...|...|...]...|...|...|...]...|...|...|...]
+|...|...|...|...]...|...|...|...]...|...|...|...]...|...|...|...]
+|...|...|...|...]...|...|...|...]...|...|...|...]...|...|...|...]
+
+4 measures with 8th note subdivisions
+|---|---]---|---]---|---]---|---]
+|---|---]---|---]---|---]---|---]
+|---|---]---|---]---|---]---|---]
+|---|---]---|---]---|---]---|---]
+|---|---]---|---]---|---]---|---]
+
+4 measures with quarter note subdivisions
+|~~~]~~~]~~~]~~~]
+|~~~]~~~]~~~]~~~]
+|~~~]~~~]~~~]~~~]
+|~~~]~~~]~~~]~~~]
+|~~~]~~~]~~~]~~~]
+
+Examples of blank measures in 6/8 time
+4 measures with 16th note subdivisions
+|.....|.....].....|.....].....|.....].....|.....]
+|.....|.....].....|.....].....|.....].....|.....]
+|.....|.....].....|.....].....|.....].....|.....]
+|.....|.....].....|.....].....|.....].....|.....]
+|.....|.....].....|.....].....|.....].....|.....]
+
+4 measures with 8th note subdivisions
+|--|--]--|--]--|--]--|--]
+|--|--]--|--]--|--]--|--]
+|--|--]--|--]--|--]--|--]
+|--|--]--|--]--|--]--|--]
+|--|--]--|--]--|--]--|--]
+
+Examples of blank measures in 3/4 time
+4 measures with 16th note subdivisions
+|...|...|...]...|...|...]...|...|...]...|...|...]
+|...|...|...]...|...|...]...|...|...]...|...|...]
+|...|...|...]...|...|...]...|...|...]...|...|...]
+|...|...|...]...|...|...]...|...|...]...|...|...]
+|...|...|...]...|...|...]...|...|...]...|...|...]
+
+4 measures with 8th note subdivisions
+|-----]-----]-----]-----]
+|-----]-----]-----]-----]
+|-----]-----]-----]-----]
+|-----]-----]-----]-----]
+|-----]-----]-----]-----]
+
+4 measures with quarter note subdivisions
+|~~]~~]~~]~~]
+|~~]~~]~~]~~]
+|~~]~~]~~]~~]
+|~~]~~]~~]~~]
+|~~]~~]~~]~~]
+
+Examples of blank measures in 6/4 time
+4 measures with 8th note subdivisions
+|-----|-----]-----|-----]-----|-----]-----|-----]
+|-----|-----]-----|-----]-----|-----]-----|-----]
+|-----|-----]-----|-----]-----|-----]-----|-----]
+|-----|-----]-----|-----]-----|-----]-----|-----]
+|-----|-----]-----|-----]-----|-----]-----|-----]
+
+4 measures with quarter note subdivisions
+|~~~~~]~~~~~]~~~~~]~~~~~]
+|~~~~~]~~~~~]~~~~~]~~~~~]
+|~~~~~]~~~~~]~~~~~]~~~~~]
+|~~~~~]~~~~~]~~~~~]~~~~~]
+|~~~~~]~~~~~]~~~~~]~~~~~]
 
