@@ -31,7 +31,7 @@ A(7)-A#(8) | ą  ḩ     ç  į  ḑ  ǫ  ę     ų
 Sharps and flats were replaced with H, I, O, U, and Y due to the available forms of these letters to represent different pitches across different octaves with the same base letter. There is no distinction between whether notess are sharp or flat from a music theory perspective; the format is meant to accurately record the pitch intended.
 
 Capitals aare used to represent lower pictches and lower case for higher pitches. For B and F letters from other alphabets were pulled to complete the grid.
-
+```
 Examples of blank measures in 4/4 time.
 2 measures with 32nd note subdivisions
 |,,,|,,,|,,,|,,,|,,,|,,,|,,,|,,,],,,|,,,|,,,|,,,|,,,|,,,|,,,|,,,]
@@ -112,4 +112,4 @@ Examples of blank measures in 6/4 time
 |~~~~~]~~~~~]~~~~~]~~~~~]
 |~~~~~]~~~~~]~~~~~]~~~~~]
 |~~~~~]~~~~~]~~~~~]~~~~~]
-
+```
